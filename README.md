@@ -5,9 +5,9 @@
 - 😄 Pronouns: Jeki
 - ⚡ Fun fact: I'm cool
 
-Instagram:  @faaris.dz
-Linkedin:   Faaris Dzaki Chandra
-Gmail:      dzakideveloper7a@gmail.com
+- Instagram:  @faaris.dz
+- Linkedin:   Faaris Dzaki Chandra
+- Gmail:      dzakideveloper7a@gmail.com
 
 
 [![@jekiganteng's Holopin board](https://holopin.io/api/user/board?user=jekiganteng)](https://holopin.io/@jekiganteng)
