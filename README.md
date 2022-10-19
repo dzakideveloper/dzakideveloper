@@ -1,7 +1,7 @@
 ### Hi guys 👋
 
 - 🌱 I’m currently learning Kotlin Language
-- 💬 Ask me about anything in linkedin
+- 💬 Ask me about anything in Linkedin 
 - 😄 Pronouns: Jeki
 - ⚡ Fun fact: I'm cool
 
